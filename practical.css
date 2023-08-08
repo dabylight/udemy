@@ -87,7 +87,7 @@ p{
 }
 .my-text{
     height: 500px;
-    max-height: 100px;
+    max-height: 200px;
     overflow: hidden;
     overflow: scroll;
 }
